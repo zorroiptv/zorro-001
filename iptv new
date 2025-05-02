@@ -3052,3 +3052,362 @@ https://cdn4.turboviplay.com/data1/6790b7903b82a/6790b7903b82a720.m3u8
 
 
 <====================================== Trial ==========================================>
+
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK-Sky Sports Action" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Sky Sports Action
+http://cord-cutter.net:8080/NVDXahfZm7/dwQtYv44jE/53705
+#EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK-Sky Sports Arena" tvg-logo="" group-title="Sports Fanatic's ",UK-Sky Sports Arena
+http://cord-cutter.net:8080/NVDXahfZm7/dwQtYv44jE/35238
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1 FHD (D)" tvg-logo="" group-title="UK UNITED KINGDOM",UK Sky Sports F1 FHD (D)
+http://cord-cutter.net:8080/NVDXahfZm7/dwQtYv44jE/53704
+#EXTINF:-1 tvg-id="sky.sports.golf.gb" tvg-name="UK Sky Sports Golf FHD " tvg-logo="" group-title="Sports Fanatic's ",UK Sky Sports Golf FHD 
+http://cord-cutter.net:8080/NVDXahfZm7/dwQtYv44jE/35240
+#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK-Sky Sports Main Event" tvg-logo="" group-title="Sports Fanatic's ",UK-Sky Sports Main Event
+http://cord-cutter.net:8080/NVDXahfZm7/dwQtYv44jE/35243
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports Mix FHD (D)" tvg-logo="" group-title="UK UNITED KINGDOM",UK Sky Sports Mix FHD (D)
+http://cord-cutter.net:8080/NVDXahfZm7/dwQtYv44jE/53706
+#EXTINF:-1 tvg-id="sky.sports.cricket.gb" tvg-name="UK Sky Sports Cricket FHD (D)" tvg-logo="" group-title="Sports Fanatic's ",UK Sky Sports Cricket FHD (D)
+http://cord-cutter.net:8080/NVDXahfZm7/dwQtYv44jE/45940
+#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-name="UK Sky Sports F1 FHD" tvg-logo="" group-title="Sports Fanatic's ",UK Sky Sports F1 FHD
+http://cord-cutter.net:8080/NVDXahfZm7/dwQtYv44jE/35244
+#EXTINF:-1 tvg-id="sky.sports.racing.gb" tvg-name="UK: SKY SP RACING FHD" tvg-logo="" group-title="Sports Fanatic's ",UK: SKY SP RACING FHD
+http://cord-cutter.net:8080/NVDXahfZm7/dwQtYv44jE/76842
+#EXTINF:-1 tvg-id="bt.sport.1.gb" tvg-name="UK014:BT Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK014BTSport1.png" group-title="UK Sports",UK014:BT Sport 1 HD
+http://wanicelife.com:8880/D12m3729/26583796/2943
+#EXTINF:-1 tvg-id="bt.sport.2.gb" tvg-name="UK015:BT Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK015BTSport2.png" group-title="UK Sports",UK015:BT Sport 2 HD
+http://wanicelife.com:8880/D12m3729/26583796/2942
+#EXTINF:-1 tvg-id="bt.sport.3.gb" tvg-name="UK016:BT Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK016BTSport3.png" group-title="UK Sports",UK016:BT Sport 3 HD
+http://wanicelife.com:8880/D12m3729/26583796/2941
+#EXTINF:-1 tvg-id="bt.sport.espn.gb" tvg-name="UK017:BT Sport ESPN FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK017BTSportESPN.png" group-title="UK Sports",UK017:BT Sport ESPN FHD
+http://wanicelife.com:8880/D12m3729/26583796/2940
+#EXTINF:-1 tvg-id="eurosport.1.gb" tvg-name="UK040:Euro Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK040EuroSport1.png" group-title="UK Sports",UK040:Euro Sport 1 HD
+http://wanicelife.com:8880/D12m3729/26583796/2917
+#EXTINF:-1 tvg-id="eurosport.2.gb" tvg-name="UK041:Euro Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK041EuroSport2.png" group-title="UK Sports",UK041:Euro Sport 2 HD
+http://wanicelife.com:8880/D12m3729/26583796/2916
+#EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK055:Sky Sports Arena HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK055SkySportsArena.png" group-title="UK Sports",UK055:Sky Sports Arena HD
+http://wanicelife.com:8880/D12m3729/26583796/2902
+#EXTINF:-1 tvg-id="mutv.gb" tvg-name="UK062:MUTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK062MUTV.png" group-title="UK Sports",UK062:MUTV HD
+http://wanicelife.com:8880/D12m3729/26583796/2895
+#EXTINF:-1 tvg-id="sky.sports.mix.gb" tvg-name="UK075:Sky Sports Mix FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK075SkySportsMix.png" group-title="UK Sports",UK075:Sky Sports Mix FHD
+http://wanicelife.com:8880/D12m3729/26583796/2882
+#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK076:Sky Sports MainEvent HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK076SkySportsMainEvent.png" group-title="UK Sports",UK076:Sky Sports MainEvent HD
+http://wanicelife.com:8880/D12m3729/26583796/2881
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK077:Sky Sports Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK077SkySportsAction.png" group-title="UK Sports",UK077:Sky Sports Action HD
+http://wanicelife.com:8880/D12m3729/26583796/2880
+#EXTINF:-1 tvg-id="sky.sports.cricket.gb" tvg-name="UK078:Sky Sports Cricket HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK078SkySportsCricket.png" group-title="UK Sports",UK078:Sky Sports Cricket HD
+http://wanicelife.com:8880/D12m3729/26583796/2879
+#EXTINF:-1 tvg-id="sky.sports.golf.gb" tvg-name="UK079:Sky Sports Golf HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK079SkySportsGolf.png" group-title="UK Sports",UK079:Sky Sports Golf HD
+http://wanicelife.com:8880/D12m3729/26583796/2878
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK080:Sky Sports PremierLeague HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK080SkySportsPremierLeague.png" group-title="UK Sports",UK080:Sky Sports PremierLeague HD
+http://wanicelife.com:8880/D12m3729/26583796/2877
+#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-name="UK081:Sky Sports F1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK081SkySportsF1.png" group-title="UK Sports",UK081:Sky Sports F1 HD
+http://wanicelife.com:8880/D12m3729/26583796/2876
+#EXTINF:-1 tvg-id="racing.gb" tvg-name="UK086:Racing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK086RacingUK.png" group-title="UK Sports",UK086:Racing
+http://wanicelife.com:8880/D12m3729/26583796/2871
+#EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="UK087:Sky Sports Football HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK087SkySportsFootball.png" group-title="UK Sports",UK087:Sky Sports Football HD
+http://wanicelife.com:8880/D12m3729/26583796/2870
+#EXTINF:-1 tvg-id="eir.sport.1.gb" tvg-name="UK089:Eir Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK089EirSport1.png" group-title="UK Sports",UK089:Eir Sport 1
+http://wanicelife.com:8880/D12m3729/26583796/2868
+#EXTINF:-1 tvg-id="eir.sport.2.gb" tvg-name="UK179:Eir Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK179Boxnation.png" group-title="UK Sports",UK179:Eir Sport 2
+http://wanicelife.com:8880/D12m3729/26583796/28880
+#EXTINF:-1 tvg-id="lfc.gb" tvg-name="UK110:LFC TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK110LFCTV.png" group-title="UK Sports",UK110:LFC TV
+http://wanicelife.com:8880/D12m3729/26583796/28949
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK112:BT Sports 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK112" group-title="UK Sports",UK112:BT Sports 4 HD
+http://wanicelife.com:8880/D12m3729/26583796/28947
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK113:TNT SPORTS 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK113" group-title="UK Sports",UK113:TNT SPORTS 1 HD
+http://wanicelife.com:8880/D12m3729/26583796/28946
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="UK114:TNT SPORTS 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK114StingrayKaraoke.png" group-title="UK Sports",UK114:TNT SPORTS 2 HD
+http://wanicelife.com:8880/D12m3729/26583796/28945
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK116:TNT SPORTS 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK116" group-title="UK Sports",UK116:TNT SPORTS 3 HD
+http://wanicelife.com:8880/D12m3729/26583796/28943
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK117:TNT SPORTS 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK117SkySportsPremierLeagueSD.png" group-title="UK Sports",UK117:TNT SPORTS 4 HD
+http://wanicelife.com:8880/D12m3729/26583796/28942
+#EXTINF:-1 tvg-id="challenge.gb" tvg-name="UK118:TNT SPORTS 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK118Challenge1.png" group-title="UK Sports",UK118:TNT SPORTS 5 HD
+http://wanicelife.com:8880/D12m3729/26583796/28941
+#EXTINF:-1 tvg-id="" tvg-name="UK119:TNT SPORTS 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK119S4C.png" group-title="UK Sports",UK119:TNT SPORTS 6 HD
+http://wanicelife.com:8880/D12m3729/26583796/28940
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK120:TNT SPORTS 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK120BTSportExtra4.png" group-title="UK Sports",UK120:TNT SPORTS 7 HD
+http://wanicelife.com:8880/D12m3729/26583796/28939
+#EXTINF:-1 tvg-id="liverpool.fc.gb" tvg-name="UK259:TNT SPORTS ESPN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK259" group-title="UK Sports",UK259:TNT SPORTS ESPN
+http://wanicelife.com:8880/D12m3729/26583796/28800
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK292:TNT SPORTS EXTRA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK292RTENEWS.png" group-title="UK Sports",UK292:TNT SPORTS EXTRA 1
+http://wanicelife.com:8880/D12m3729/26583796/28767
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK228:TNT SPORTS EXTRA 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK228CNBC.png" group-title="UK Sports",UK228:TNT SPORTS EXTRA 2
+http://wanicelife.com:8880/D12m3729/26583796/28831
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK239:TNT SPORTS EXTRA 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK239EURONEWSHD.png" group-title="UK Sports",UK239:TNT SPORTS EXTRA 4
+http://wanicelife.com:8880/D12m3729/26583796/28820
+#EXTINF:-1 tvg-id="kiss.gb" tvg-name="UK244:TNT SPORTS EXTRA 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="UK Sports",UK244:TNT SPORTS EXTRA 3
+http://wanicelife.com:8880/D12m3729/26583796/28815
+#EXTINF:-1 tvg-id="british.muslim.gb" tvg-name="UK181:FREE SPORTS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK181BritishMuslimTV.png" group-title="UK Sports",UK181:FREE SPORTS
+http://wanicelife.com:8880/D12m3729/26583796/28878
+#EXTINF:-1 tvg-id="" tvg-name="UK197:PREMIER SPORTS 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK197BBCEntertainmentHD.png" group-title="UK Sports",UK197:PREMIER SPORTS 1
+http://wanicelife.com:8880/D12m3729/26583796/28862
+#EXTINF:-1 tvg-id="bbc.parliament.gb" tvg-name="UK198:PREMIER SPORTS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK198BBCParliament.png" group-title="UK Sports",UK198:PREMIER SPORTS 2
+http://wanicelife.com:8880/D12m3729/26583796/28861
+#EXTINF:-1 tvg-id="" tvg-name="UK211:SuperSport Premier League FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK211EPL8.png" group-title="UK Sports",UK211:SuperSport Premier League FHD (Match Time)
+http://wanicelife.com:8880/D12m3729/26583796/28848
+#EXTINF:-1 tvg-id="bt.sport.box.office.gb" tvg-name="UK227:UFC fight night Pass" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK227ClublandTV.png" group-title="UK Sports",UK227:UFC fight night Pass
+http://wanicelife.com:8880/D12m3729/26583796/28832
+#EXTINF:-1 tvg-id="" tvg-name="UK242:Fightbox HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK242FightboxHD.png" group-title="UK Sports",UK242:Fightbox HD
+http://wanicelife.com:8880/D12m3729/26583796/28817
+#EXTINF:-1 tvg-id="freesports.gb" tvg-name="UK247:KERRANG!" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK247FreeSportsTV.png" group-title="UK Sports",UK247:KERRANG!
+http://wanicelife.com:8880/D12m3729/26583796/28812
+#EXTINF:-1 tvg-id="" tvg-name="UK248:Celtic TV (LIVE Matches only)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK248CELTICTV(LIVEMATCHESONLY).png" group-title="UK Sports",UK248:Celtic TV (LIVE Matches only)
+http://wanicelife.com:8880/D12m3729/26583796/28811
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK251:BEIN SPORTS 1 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="UK Sports",UK251:BEIN SPORTS 1 
+http://wanicelife.com:8880/D12m3729/26583796/28808
+#EXTINF:-1 tvg-id="" tvg-name="UK252:BEIN SPORTS 2 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="UK Sports",UK252:BEIN SPORTS 2 
+http://wanicelife.com:8880/D12m3729/26583796/28807
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK254:BEIN SPORTS 4 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK254Home.png" group-title="UK Sports",UK254:BEIN SPORTS 4 
+http://wanicelife.com:8880/D12m3729/26583796/28805
+#EXTINF:-1 tvg-id="" tvg-name="UK256:Horse Country" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK256HorseCountry.png" group-title="UK Sports",UK256:Horse Country
+http://wanicelife.com:8880/D12m3729/26583796/28803
+#EXTINF:-1 tvg-id="heart.gb" tvg-name="UK257:BEIN SPORTS 7 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="UK Sports",UK257:BEIN SPORTS 7 
+http://wanicelife.com:8880/D12m3729/26583796/28802
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK291:Sky Sports NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK291RTEJunior.png" group-title="UK Sports",UK291:Sky Sports NFL
+http://wanicelife.com:8880/D12m3729/26583796/28768
+#EXTINF:-1 tvg-id="sky.sports.racing.gb" tvg-name="UK318:Sky Sports Racing FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK318SkySportsRacingFHD.png" group-title="UK Sports",UK318:Sky Sports Racing FHD
+http://wanicelife.com:8880/D12m3729/26583796/28741
+
+#EXTINF:-1 tvg-id="" tvg-name="MY007:QUAN JIA" tvg-logo="" group-title="Malaysia",MY007:QUAN JIA
+http://wanicelife.com:8880/D12m3729/26583796/1728
+#EXTINF:-1 tvg-id="" tvg-name="MY008:SHUANG XING" tvg-logo="" group-title="Malaysia",MY008:SHUANG XING
+http://wanicelife.com:8880/D12m3729/26583796/1727
+#EXTINF:-1 tvg-id="" tvg-name="MY009:Wah Lai Toi" tvg-logo="" group-title="Malaysia",MY009:Wah Lai Toi
+http://wanicelife.com:8880/D12m3729/26583796/1726
+#EXTINF:-1 tvg-id="" tvg-name="MY010:HUA HEE DAI" tvg-logo="" group-title="Malaysia",MY010:HUA HEE DAI
+http://wanicelife.com:8880/D12m3729/26583796/1725
+#EXTINF:-1 tvg-id="" tvg-name="MY011:AOD" tvg-logo="" group-title="Malaysia",MY011:AOD
+http://wanicelife.com:8880/D12m3729/26583796/1724
+#EXTINF:-1 tvg-id="" tvg-name="MY012:AEC" tvg-logo="" group-title="Malaysia",MY012:AEC
+http://wanicelife.com:8880/D12m3729/26583796/1723
+#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="Malaysia",MY013:Super Sport 1
+http://wanicelife.com:8880/D12m3729/26583796/1722
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="Malaysia",MY014:Super Sport 2
+http://wanicelife.com:8880/D12m3729/26583796/1721
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="Malaysia",MY015:Super Sport 3
+http://wanicelife.com:8880/D12m3729/26583796/1720
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="Malaysia",MY016:Super Sport 4
+http://wanicelife.com:8880/D12m3729/26583796/1719
+#EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="" group-title="Malaysia",MY022:Super Sport 5
+http://wanicelife.com:8880/D12m3729/26583796/1713
+#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="" group-title="Malaysia",MY043:ASTRO ASSP4 HD
+http://wanicelife.com:8880/D12m3729/26583796/59217
+#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO ASSP3 HD" tvg-logo="" group-title="Malaysia",MY042:ASTRO ASSP3 HD
+http://wanicelife.com:8880/D12m3729/26583796/59218
+#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="" group-title="Malaysia",MY040:ASTRO ASSP HD
+http://wanicelife.com:8880/D12m3729/26583796/59220
+#EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="" group-title="Malaysia",MY041:ASTRO ASSP2 HD
+http://wanicelife.com:8880/D12m3729/26583796/59219
+#EXTINF:-1 tvg-id="" tvg-name="MY107:Astro SuperSport Events 6" tvg-logo="" group-title="Malaysia",MY107:Astro SuperSport Events 6
+http://wanicelife.com:8880/D12m3729/26583796/71079
+#EXTINF:-1 tvg-id="" tvg-name="MY133:Astro Premier 2" tvg-logo="" group-title="Malaysia",MY133:Astro Premier 2
+http://wanicelife.com:8880/D12m3729/26583796/71105
+#EXTINF:-1 tvg-id="" tvg-name="MY136:ASTRO Rugby Pass" tvg-logo="" group-title="Malaysia",MY136:ASTRO Rugby Pass
+http://wanicelife.com:8880/D12m3729/26583796/71108
+#EXTINF:-1 tvg-id="" tvg-name="MY137:ASTRO Cricket" tvg-logo="" group-title="Malaysia",MY137:ASTRO Cricket
+http://wanicelife.com:8880/D12m3729/26583796/71109
+#EXTINF:-1 tvg-id="" tvg-name="MY177:Astro SuperSport Events 3" tvg-logo="" group-title="Malaysia",MY177:Astro SuperSport Events 3
+http://wanicelife.com:8880/D12m3729/26583796/71146
+#EXTINF:-1 tvg-id="" tvg-name="MY108:ASTRO Ceria" tvg-logo="" group-title="Malaysia",MY108:ASTRO Ceria
+http://wanicelife.com:8880/D12m3729/26583796/71080
+#EXTINF:-1 tvg-id="" tvg-name="MY057:ASTRO Colors Tamil" tvg-logo="" group-title="Malaysia",MY057:ASTRO Colors Tamil
+http://wanicelife.com:8880/D12m3729/26583796/71035
+#EXTINF:-1 tvg-id="" tvg-name="MY056:ASTRO Star Vijay" tvg-logo="" group-title="Malaysia",MY056:ASTRO Star Vijay
+http://wanicelife.com:8880/D12m3729/26583796/71034
+#EXTINF:-1 tvg-id="" tvg-name="MY054:ASTRO Zee Tamil" tvg-logo="" group-title="Malaysia",MY054:ASTRO Zee Tamil
+http://wanicelife.com:8880/D12m3729/26583796/71032
+#EXTINF:-1 tvg-id="" tvg-name="MY053:ASTRO Adithya" tvg-logo="" group-title="Malaysia",MY053:ASTRO Adithya
+http://wanicelife.com:8880/D12m3729/26583796/71031
+#EXTINF:-1 tvg-id="" tvg-name="MY017:CELESTIAL" tvg-logo="" group-title="Malaysia",MY017:CELESTIAL
+http://wanicelife.com:8880/D12m3729/26583796/1718
+#EXTINF:-1 tvg-id="" tvg-name="MY018:BERNAMA" tvg-logo="" group-title="Malaysia",MY018:BERNAMA
+http://wanicelife.com:8880/D12m3729/26583796/1717
+#EXTINF:-1 tvg-id="" tvg-name="MY020:Star Chinese Channel" tvg-logo="" group-title="Malaysia",MY020:Star Chinese Channel
+http://wanicelife.com:8880/D12m3729/26583796/1715
+#EXTINF:-1 tvg-id="" tvg-name="MY021:XIAO TAI YANG" tvg-logo="" group-title="Malaysia",MY021:XIAO TAI YANG
+http://wanicelife.com:8880/D12m3729/26583796/1714
+#EXTINF:-1 tvg-id="" tvg-name="MY023:TVB CLASSIC" tvg-logo="" group-title="Malaysia",MY023:TVB CLASSIC
+http://wanicelife.com:8880/D12m3729/26583796/1712
+#EXTINF:-1 tvg-id="" tvg-name="MY029:WARNA" tvg-logo="" group-title="Malaysia",MY029:WARNA
+http://wanicelife.com:8880/D12m3729/26583796/1706
+#EXTINF:-1 tvg-id="" tvg-name="MY030:RIA" tvg-logo="" group-title="Malaysia",MY030:RIA
+http://wanicelife.com:8880/D12m3729/26583796/1705
+#EXTINF:-1 tvg-id="" tvg-name="MY031:AWANI" tvg-logo="" group-title="Malaysia",MY031:AWANI
+http://wanicelife.com:8880/D12m3729/26583796/1704
+#EXTINF:-1 tvg-id="" tvg-name="MY034:OASIS" tvg-logo="" group-title="Malaysia",MY034:OASIS
+http://wanicelife.com:8880/D12m3729/26583796/1701
+#EXTINF:-1 tvg-id="" tvg-name="MY082:Singapore Channel 8" tvg-logo="" group-title="Malaysia",MY082:Singapore Channel 8
+http://wanicelife.com:8880/D12m3729/26583796/71054
+#EXTINF:-1 tvg-id="" tvg-name="MY035:Singapore Suria" tvg-logo="" group-title="Malaysia",MY035:Singapore Suria
+http://wanicelife.com:8880/D12m3729/26583796/1700
+#EXTINF:-1 tvg-id="" tvg-name="MY036:Singapore Vasantham" tvg-logo="" group-title="Malaysia",MY036:Singapore Vasantham
+http://wanicelife.com:8880/D12m3729/26583796/1699
+#EXTINF:-1 tvg-id="" tvg-name="MY151:sukan" tvg-logo="" group-title="Malaysia",MY151:sukan
+http://wanicelife.com:8880/D12m3729/26583796/71123
+#EXTINF:-1 tvg-id="" tvg-name="MY037:WWE" tvg-logo="" group-title="Malaysia",MY037:WWE
+http://wanicelife.com:8880/D12m3729/26583796/1698
+#EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" tvg-logo="" group-title="Malaysia",MY038:BOO
+http://wanicelife.com:8880/D12m3729/26583796/1697
+#EXTINF:-1 tvg-id="" tvg-name="MY042:Ria" tvg-logo="" group-title="Malaysia",MY042:Ria
+http://wanicelife.com:8880/D12m3729/26583796/71020
+#EXTINF:-1 tvg-id="" tvg-name="MY043:Awesome TV" tvg-logo="" group-title="Malaysia",MY043:Awesome TV
+http://wanicelife.com:8880/D12m3729/26583796/71021
+#EXTINF:-1 tvg-id="" tvg-name="MY046:TV ALHIJRAH" tvg-logo="" group-title="Malaysia",MY046:TV ALHIJRAH
+http://wanicelife.com:8880/D12m3729/26583796/71024
+#EXTINF:-1 tvg-id="" tvg-name="MY047:aura" tvg-logo="" group-title="Malaysia",MY047:aura
+http://wanicelife.com:8880/D12m3729/26583796/71025
+#EXTINF:-1 tvg-id="" tvg-name="MY048:Astro Premier 1" tvg-logo="" group-title="Malaysia",MY048:Astro Premier 1
+http://wanicelife.com:8880/D12m3729/26583796/71026
+#EXTINF:-1 tvg-id="" tvg-name="MY049:KBSW" tvg-logo="" group-title="Malaysia",MY049:KBSW
+http://wanicelife.com:8880/D12m3729/26583796/71027
+#EXTINF:-1 tvg-id="" tvg-name="MY050:GO SHOP" tvg-logo="" group-title="Malaysia",MY050:GO SHOP
+http://wanicelife.com:8880/D12m3729/26583796/71028
+#EXTINF:-1 tvg-id="" tvg-name="MY051:Sun Music" tvg-logo="" group-title="Malaysia",MY051:Sun Music
+http://wanicelife.com:8880/D12m3729/26583796/71029
+#EXTINF:-1 tvg-id="" tvg-name="MY052:TUTOR TV SK" tvg-logo="" group-title="Malaysia",MY052:TUTOR TV SK
+http://wanicelife.com:8880/D12m3729/26583796/71030
+#EXTINF:-1 tvg-id="" tvg-name="MY055:Star Vijay Super" tvg-logo="" group-title="Malaysia",MY055:Star Vijay Super
+http://wanicelife.com:8880/D12m3729/26583796/71033
+#EXTINF:-1 tvg-id="" tvg-name="MY058:SUN TV HD" tvg-logo="" group-title="Malaysia",MY058:SUN TV HD
+http://wanicelife.com:8880/D12m3729/26583796/71036
+#EXTINF:-1 tvg-id="" tvg-name="MY059:HBO Hits" tvg-logo="" group-title="Malaysia",MY059:HBO Hits
+http://wanicelife.com:8880/D12m3729/26583796/71037
+#EXTINF:-1 tvg-id="" tvg-name="MY060:iQIYI HD" tvg-logo="" group-title="Malaysia",MY060:iQIYI HD
+http://wanicelife.com:8880/D12m3729/26583796/71038
+#EXTINF:-1 tvg-id="" tvg-name="MY061:GO SHOP 2" tvg-logo="" group-title="Malaysia",MY061:GO SHOP 2
+http://wanicelife.com:8880/D12m3729/26583796/71039
+#EXTINF:-1 tvg-id="" tvg-name="MY067:TVB JADE" tvg-logo="" group-title="Malaysia",MY067:TVB JADE
+http://wanicelife.com:8880/D12m3729/26583796/71040
+#EXTINF:-1 tvg-id="" tvg-name="MY069:CTI Asia" tvg-logo="" group-title="Malaysia",MY069:CTI Asia
+http://wanicelife.com:8880/D12m3729/26583796/71042
+#EXTINF:-1 tvg-id="" tvg-name="MY070:TVB E-NEWS" tvg-logo="" group-title="Malaysia",MY070:TVB E-NEWS
+http://wanicelife.com:8880/D12m3729/26583796/71043
+#EXTINF:-1 tvg-id="" tvg-name="MY071:TVB XING HE HD" tvg-logo="" group-title="Malaysia",MY071:TVB XING HE HD
+http://wanicelife.com:8880/D12m3729/26583796/71044
+#EXTINF:-1 tvg-id="" tvg-name="MY072:TVBS ASIA HD" tvg-logo="" group-title="Malaysia",MY072:TVBS ASIA HD
+http://wanicelife.com:8880/D12m3729/26583796/71045
+#EXTINF:-1 tvg-id="" tvg-name="MY073:CCM" tvg-logo="" group-title="Malaysia",MY073:CCM
+http://wanicelife.com:8880/D12m3729/26583796/71046
+#EXTINF:-1 tvg-id="" tvg-name="MY075:CCTV4 HD" tvg-logo="" group-title="Malaysia",MY075:CCTV4 HD
+http://wanicelife.com:8880/D12m3729/26583796/71047
+#EXTINF:-1 tvg-id="" tvg-name="MY076:AOD 352 HD" tvg-logo="" group-title="Malaysia",MY076:AOD 352 HD
+http://wanicelife.com:8880/D12m3729/26583796/71048
+#EXTINF:-1 tvg-id="" tvg-name="MY077:AOD 353 HD" tvg-logo="" group-title="Malaysia",MY077:AOD 353 HD
+http://wanicelife.com:8880/D12m3729/26583796/71049
+#EXTINF:-1 tvg-id="" tvg-name="MY078:AOD 354 HD" tvg-logo="" group-title="Malaysia",MY078:AOD 354 HD
+http://wanicelife.com:8880/D12m3729/26583796/71050
+#EXTINF:-1 tvg-id="" tvg-name="MY079:AOD 355 HD" tvg-logo="" group-title="Malaysia",MY079:AOD 355 HD
+http://wanicelife.com:8880/D12m3729/26583796/71051
+#EXTINF:-1 tvg-id="" tvg-name="MY080:KBS World HD" tvg-logo="" group-title="Malaysia",MY080:KBS World HD
+http://wanicelife.com:8880/D12m3729/26583796/71052
+#EXTINF:-1 tvg-id="" tvg-name="MY081:ONE HD" tvg-logo="" group-title="Malaysia",MY081:ONE HD
+http://wanicelife.com:8880/D12m3729/26583796/71053
+#EXTINF:-1 tvg-id="" tvg-name="MY083:TVN HD" tvg-logo="" group-title="Malaysia",MY083:TVN HD
+http://wanicelife.com:8880/D12m3729/26583796/71055
+#EXTINF:-1 tvg-id="" tvg-name="MY084:Hits Movies HD" tvg-logo="" group-title="Malaysia",MY084:Hits Movies HD
+http://wanicelife.com:8880/D12m3729/26583796/71056
+#EXTINF:-1 tvg-id="" tvg-name="MY086:Cinemax HD" tvg-logo="" group-title="Malaysia",MY086:Cinemax HD
+http://wanicelife.com:8880/D12m3729/26583796/71058
+#EXTINF:-1 tvg-id="" tvg-name="MY087:TVN Movies" tvg-logo="" group-title="Malaysia",MY087:TVN Movies
+http://wanicelife.com:8880/D12m3729/26583796/71059
+#EXTINF:-1 tvg-id="" tvg-name="MY088:OKEY TV" tvg-logo="" group-title="Malaysia",MY088:OKEY TV
+http://wanicelife.com:8880/D12m3729/26583796/71060
+#EXTINF:-1 tvg-id="" tvg-name="MY089:Moonbug Kids" tvg-logo="" group-title="Malaysia",MY089:Moonbug Kids
+http://wanicelife.com:8880/D12m3729/26583796/71061
+#EXTINF:-1 tvg-id="" tvg-name="MY091:AL JAZEERA HD" tvg-logo="" group-title="Malaysia",MY091:AL JAZEERA HD
+http://wanicelife.com:8880/D12m3729/26583796/71063
+#EXTINF:-1 tvg-id="" tvg-name="MY092:SKY NEWS HD" tvg-logo="" group-title="Malaysia",MY092:SKY NEWS HD
+http://wanicelife.com:8880/D12m3729/26583796/71064
+#EXTINF:-1 tvg-id="" tvg-name="MY093:CNA HD" tvg-logo="" group-title="Malaysia",MY093:CNA HD
+http://wanicelife.com:8880/D12m3729/26583796/71065
+#EXTINF:-1 tvg-id="" tvg-name="MY094:CNBC" tvg-logo="" group-title="Malaysia",MY094:CNBC
+http://wanicelife.com:8880/D12m3729/26583796/71066
+#EXTINF:-1 tvg-id="" tvg-name="MY095:Bloomberg TV" tvg-logo="" group-title="Malaysia",MY095:Bloomberg TV
+http://wanicelife.com:8880/D12m3729/26583796/71067
+#EXTINF:-1 tvg-id="" tvg-name="MY096:ABC AUSTRALIA" tvg-logo="" group-title="Malaysia",MY096:ABC AUSTRALIA
+http://wanicelife.com:8880/D12m3729/26583796/71068
+#EXTINF:-1 tvg-id="" tvg-name="MY097:8TV" tvg-logo="" group-title="Malaysia",MY097:8TV
+http://wanicelife.com:8880/D12m3729/26583796/71069
+#EXTINF:-1 tvg-id="" tvg-name="MY099:Discovery HD" tvg-logo="" group-title="Malaysia",MY099:Discovery HD
+http://wanicelife.com:8880/D12m3729/26583796/71071
+#EXTINF:-1 tvg-id="" tvg-name="MY100:DISCOVERY ASIA" tvg-logo="" group-title="Malaysia",MY100:DISCOVERY ASIA
+http://wanicelife.com:8880/D12m3729/26583796/71072
+#EXTINF:-1 tvg-id="" tvg-name="MY101:Discovery Science" tvg-logo="" group-title="Malaysia",MY101:Discovery Science
+http://wanicelife.com:8880/D12m3729/26583796/71073
+#EXTINF:-1 tvg-id="" tvg-name="MY102:HISTORY HD" tvg-logo="" group-title="Malaysia",MY102:HISTORY HD
+http://wanicelife.com:8880/D12m3729/26583796/71074
+#EXTINF:-1 tvg-id="" tvg-name="MY103:ANIMAL PLANET HD" tvg-logo="" group-title="Malaysia",MY103:ANIMAL PLANET HD
+http://wanicelife.com:8880/D12m3729/26583796/71075
+#EXTINF:-1 tvg-id="" tvg-name="MY104:TUTOR TV UPSR" tvg-logo="" group-title="Malaysia",MY104:TUTOR TV UPSR
+http://wanicelife.com:8880/D12m3729/26583796/71076
+#EXTINF:-1 tvg-id="" tvg-name="MY106:TUTOR TV SMK" tvg-logo="" group-title="Malaysia",MY106:TUTOR TV SMK
+http://wanicelife.com:8880/D12m3729/26583796/71078
+#EXTINF:-1 tvg-id="" tvg-name="MY112:Cartoon Network" tvg-logo="" group-title="Malaysia",MY112:Cartoon Network
+http://wanicelife.com:8880/D12m3729/26583796/71084
+#EXTINF:-1 tvg-id="" tvg-name="MY113:NICKELODEON HD" tvg-logo="" group-title="Malaysia",MY113:NICKELODEON HD
+http://wanicelife.com:8880/D12m3729/26583796/71085
+#EXTINF:-1 tvg-id="" tvg-name="MY114:NICK JR" tvg-logo="" group-title="Malaysia",MY114:NICK JR
+http://wanicelife.com:8880/D12m3729/26583796/71086
+#EXTINF:-1 tvg-id="" tvg-name="MY115:AXN HD" tvg-logo="" group-title="Malaysia",MY115:AXN HD
+http://wanicelife.com:8880/D12m3729/26583796/71087
+#EXTINF:-1 tvg-id="" tvg-name="MY116:Phoenix" tvg-logo="" group-title="Malaysia",MY116:Phoenix
+http://wanicelife.com:8880/D12m3729/26583796/71088
+#EXTINF:-1 tvg-id="" tvg-name="MY117:HITS HD" tvg-logo="" group-title="Malaysia",MY117:HITS HD
+http://wanicelife.com:8880/D12m3729/26583796/71089
+#EXTINF:-1 tvg-id="" tvg-name="MY118:TLC HD" tvg-logo="" group-title="Malaysia",MY118:TLC HD
+http://wanicelife.com:8880/D12m3729/26583796/71090
+#EXTINF:-1 tvg-id="" tvg-name="MY119:FOOD NTWK HD" tvg-logo="" group-title="Malaysia",MY119:FOOD NTWK HD
+http://wanicelife.com:8880/D12m3729/26583796/71091
+#EXTINF:-1 tvg-id="" tvg-name="MY120:AFN HD" tvg-logo="" group-title="Malaysia",MY120:AFN HD
+http://wanicelife.com:8880/D12m3729/26583796/71092
+#EXTINF:-1 tvg-id="" tvg-name="MY122:WARNER TV" tvg-logo="" group-title="Malaysia",MY122:WARNER TV
+http://wanicelife.com:8880/D12m3729/26583796/71094
+#EXTINF:-1 tvg-id="" tvg-name="MY123:Crime Investigation" tvg-logo="" group-title="Malaysia",MY123:Crime Investigation
+http://wanicelife.com:8880/D12m3729/26583796/71095
+#EXTINF:-1 tvg-id="" tvg-name="MY124:HGTV HD" tvg-logo="" group-title="Malaysia",MY124:HGTV HD
+http://wanicelife.com:8880/D12m3729/26583796/71096
+#EXTINF:-1 tvg-id="" tvg-name="MY125:DMAX HD" tvg-logo="" group-title="Malaysia",MY125:DMAX HD
+http://wanicelife.com:8880/D12m3729/26583796/71097
+#EXTINF:-1 tvg-id="" tvg-name="MY126:COMEDY CENTRAL" tvg-logo="" group-title="Malaysia",MY126:COMEDY CENTRAL
+http://wanicelife.com:8880/D12m3729/26583796/71098
+#EXTINF:-1 tvg-id="" tvg-name="MY127:MTV" tvg-logo="" group-title="Malaysia",MY127:MTV
+http://wanicelife.com:8880/D12m3729/26583796/71099
+#EXTINF:-1 tvg-id="" tvg-name="MY128:ANIMAX" tvg-logo="" group-title="Malaysia",MY128:ANIMAX
+http://wanicelife.com:8880/D12m3729/26583796/71100
+#EXTINF:-1 tvg-id="" tvg-name="MY129:bEIN Sports 3" tvg-logo="" group-title="Malaysia",MY129:bEIN Sports 3
+http://wanicelife.com:8880/D12m3729/26583796/71101
+#EXTINF:-1 tvg-id="" tvg-name="MY132:beIN SPORTS" tvg-logo="" group-title="Malaysia",MY132:beIN SPORTS
+http://wanicelife.com:8880/D12m3729/26583796/71104
+#EXTINF:-1 tvg-id="" tvg-name="MY134:EUROSPORT HD" tvg-logo="" group-title="Malaysia",MY134:EUROSPORT HD
+http://wanicelife.com:8880/D12m3729/26583796/71106
+#EXTINF:-1 tvg-id="" tvg-name="MY135:GOLF CHANNEL HD" tvg-logo="" group-title="Malaysia",MY135:GOLF CHANNEL HD
+http://wanicelife.com:8880/D12m3729/26583796/71107
+#EXTINF:-1 tvg-id="" tvg-name="MY139:KPLUS HD" tvg-logo="" group-title="Malaysia",MY139:KPLUS HD
+http://wanicelife.com:8880/D12m3729/26583796/71111
+#EXTINF:-1 tvg-id="" tvg-name="MY140:DW HD" tvg-logo="" group-title="Malaysia",MY140:DW HD
+http://wanicelife.com:8880/D12m3729/26583796/71112
+#EXTINF:-1 tvg-id="" tvg-name="MY141:FRANCE24 HD" tvg-logo="" group-title="Malaysia",MY141:FRANCE24 HD
+http://wanicelife.com:8880/D12m3729/26583796/71113
+#EXTINF:-1 tvg-id="" tvg-name="MY146:beIN Sports 2" tvg-logo="" group-title="Malaysia",MY146:beIN Sports 2
+http://wanicelife.com:8880/D12m3729/26583796/71118
+#EXTINF:-1 tvg-id="" tvg-name="MY147:BBC Earth HD" tvg-logo="" group-title="Malaysia",MY147:BBC Earth HD
+http://wanicelife.com:8880/D12m3729/26583796/71119
+#EXTINF:-1 tvg-id="" tvg-name="MY148:BBC Lifestyle" tvg-logo="" group-title="Malaysia",MY148:BBC Lifestyle
+http://wanicelife.com:8880/D12m3729/26583796/71120
+#EXTINF:-1 tvg-id="" tvg-name="MY150:BBC World News" tvg-logo="" group-title="Malaysia",MY150:BBC World News
+http://wanicelife.com:8880/D12m3729/26583796/71122
+#EXTINF:-1 tvg-id="" tvg-name="MY164:Paramount Channel" tvg-logo="" group-title="Malaysia",MY164:Paramount Channel
+http://wanicelife.com:8880/D12m3729/26583796/71135
+#EXTINF:-1 tvg-id="" tvg-name="MY166:Global Trekker" tvg-logo="" group-title="Malaysia",MY166:Global Trekker
+http://wanicelife.com:8880/D12m3729/26583796/71137
+#EXTINF:-1 tvg-id="" tvg-name="MY168:SCM" tvg-logo="" group-title="Malaysia",MY168:SCM
+http://wanicelife.com:8880/D12m3729/26583796/71138
+#EXTINF:-1 tvg-id="" tvg-name="MY169:SETi Chinese" tvg-logo="" group-title="Malaysia",MY169:SETi Chinese
+http://wanicelife.com:8880/D12m3729/26583796/71139
+#EXTINF:-1 tvg-id="" tvg-name="MY178:SPOTV" tvg-logo="" group-title="Malaysia",MY178:SPOTV
+http://wanicelife.com:8880/D12m3729/26583796/71147
+#EXTINF:-1 tvg-id="" tvg-name="MY179:TVS" tvg-logo="" group-title="Malaysia",MY179:TVS
+http://wanicelife.com:8880/D12m3729/26583796/71148
+#EXTINF:-1 tvg-id="" tvg-name="MY180:Awesome TV" tvg-logo="" group-title="Malaysia",MY180:Awesome TV
+http://wanicelife.com:8880/D12m3729/26583796/71149
+
